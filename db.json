@@ -1,9 +1,6 @@
 {
   "profesores": [
     {
-      "id": "0daa"
-    },
-    {
       "id": "a68e",
       "nombre": "Matias",
       "apellido": "Horrisberger",
