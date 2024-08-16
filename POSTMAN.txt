@@ -1,0 +1,6 @@
+GET Tomar valores 
+POST Poner un valor
+PUT cambiar un valor por id con /:id
+PATCH cambiar algo en especifico con id
+DEL Borrar un valor por id
+
